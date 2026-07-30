@@ -4,7 +4,7 @@ A comparative benchmarking of 6 machine learning classification models (RF, Logi
 ---
 
 ## 📌 Project Overview
-The objective of this project is to evaluate and rank six different classification algorithms head-to-head on the **UCI Adult Income** dataset. We handle missing data, pre-process numerical and categorical features using `scikit-learn` Pipelines, tune hyperparameters (finding optimal $K$ for KNN), and compare performance across multiple evaluation metrics.
+The objective of this project is to evaluate and rank six different classification algorithms head-to-head on the **UCI Adult Income** dataset. We handled missing data, processed numerical and categorical features using `scikit-learn` Pipelines, tuned hyperparameters (finding optimal $K$ for KNN), and compared the performance across multiple evaluation metrics.
 
 ---
 
